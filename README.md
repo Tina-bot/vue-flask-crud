@@ -37,7 +37,7 @@ pip install -U flask-sqlalchemy marshmallow-sqlalchemy
 
 flask run
 
-## Screenshoots 🎞
+## Screenshots 🎞
 
 Vista principal </p>
 ![Screenshot_4](https://user-images.githubusercontent.com/72955349/179332498-63445a7d-08f8-4e4e-a9b9-80190d01b91c.png)
