@@ -8,6 +8,7 @@ Trabajo Practico Integrador Fullstack Vue & Flask
 >> Flask para el backend, para la base de datos se utilizo 
 >> una en linea (freesqldatabase) y con todo esto crear un CRUD (Create, Read, Update, Delete) de empleados
 
+
 ## Dependencias🎀
 
 •Vue 2.6.14 </p>
@@ -25,19 +26,21 @@ Trabajo Practico Integrador Fullstack Vue & Flask
 •SQLAlchemy </p>
 •Marshmallow </p>
 
-## Como? 🎐
+
+
+## Como lo instalo? 🎐
 
 Para el front de vue:
 
-npm install
+`npm install`
 
-npm run serve
+`npm run serve`
 
 Para el flask:
 
-pip install -U flask-sqlalchemy marshmallow-sqlalchemy
+`pip install -U flask-sqlalchemy marshmallow-sqlalchemy`
 
-flask run
+`flask run`
 
 ## Screenshots 🎞
 
