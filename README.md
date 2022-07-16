@@ -8,9 +8,10 @@ Trabajo Practico Integrador Fullstack Vue & Flask
 >> una en linea (freesqldatabase) y con todo esto crear un CRUD (Create, Read, Update, Delete) de empleados
 
 ## Dependencias🎀
-<img src="https://user-images.githubusercontent.com/72955349/179333996-301bce11-7e8b-4d8c-bc8e-798130fadb0e.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 •Vue 2.6.14 </p>
 •Vue-router 3.5.1 </p>
+<img src="https://user-images.githubusercontent.com/72955349/179333996-301bce11-7e8b-4d8c-bc8e-798130fadb0e.png" min-width="400px" max-width="400px" width="400px" align="right">
 •Node 14.18 </p>
 •npm 6.14 </p>
 •Babel </p>
