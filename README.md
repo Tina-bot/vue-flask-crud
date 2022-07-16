@@ -1,4 +1,5 @@
-# Vue-flask-CRUD 🎇
+# Vue-flask-CRUD 🎆
+![tumblr_abb167d10888df648fac84cd8690abb6_bfddb0a9_2048](https://user-images.githubusercontent.com/72955349/179334588-f570b3b8-4ac2-4dae-a370-9c17a76b4b57.jpg)
 
 Trabajo Practico Integrador Fullstack Vue & Flask 
 
@@ -53,6 +54,9 @@ Vista al *eliminar* empleado </p>
 ![Screenshot_7](https://user-images.githubusercontent.com/72955349/179332901-a3d4ceec-823b-4104-ba2a-6b1b2239edc1.png)
 
 
+<hr>
+
+![tumblr_abb167d10888df648fac84cd8690abb6_bfddb0a9_2048](https://user-images.githubusercontent.com/72955349/179334588-f570b3b8-4ac2-4dae-a370-9c17a76b4b57.jpg)
 
 
 
