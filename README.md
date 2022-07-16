@@ -4,8 +4,8 @@ Trabajo Practico Integrador Fullstack Vue & Flask
 
 >> Trabajo integrador hecho para codoacodo 4.0 
 >> El objetivo era integrar Vue para el frontend y  
->> Flask para el backend, para la base de datos se  
->> utilizo una en linea y con todo esto crear un CRUD (Create, Read, Update, Delete) de empleados
+>> Flask para el backend, para la base de datos se utilizo 
+>> una en linea (freesqldatabase) y con todo esto crear un CRUD (Create, Read, Update, Delete) de empleados
 
 ## Dependencias🎀
 <img src="https://user-images.githubusercontent.com/72955349/179333996-301bce11-7e8b-4d8c-bc8e-798130fadb0e.png" min-width="400px" max-width="400px" width="400px" align="right">
