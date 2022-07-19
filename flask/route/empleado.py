@@ -2,7 +2,7 @@ from flask import jsonify, request, Blueprint
 from marshmallow import ValidationError
 from schemas.empleado import empleado_schema, empleados_schema
 from models.Empleado import Empleado
-from app import db
+from main import db
 
 empleado_router = Blueprint('empleado', __name__)
 
