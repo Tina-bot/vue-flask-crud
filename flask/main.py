@@ -18,8 +18,8 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 CORS(app, resources={r"/*":{'origins':"*"}})
 
+from route.empleado import empleado_router
+app.register_blueprint(empleado_router)
 
 if __name__ == '__main__':
-    from route.empleado import empleado_router
-    app.register_blueprint(empleado_router)
     app.run(port=(os.getenv('PORT') if os.getenv('PORT') else 8000))
