@@ -23,7 +23,7 @@ export default {
   },
   methods: {
     async editarEmpleado (empleado) {
-      const result = await fetch(`http://localhost:5000/empleados/${this.$route.params.id}`, {
+      const result = await fetch(`https://vue-flask-crud.herokuapp.com/empleados/${this.$route.params.id}`, {
         method: 'PUT',
         headers: {
           Accept: 'application/json',
@@ -34,7 +34,7 @@ export default {
       console.log(result)
     },
     async obtenerEmpleado (id) {
-      const empleado = await fetch(`http://localhost:5000/empleados/${id}`)
+      const empleado = await fetch(`https://vue-flask-crud.herokuapp.com/empleados/${id}`)
       this.empleado = await empleado.json()
     }
   }

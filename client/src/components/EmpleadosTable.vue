@@ -85,7 +85,7 @@ export default {
       this.$router.push(`/empleados/eliminar/${empleado.id}`)
     },
     async fetchEmpleados () {
-      const response = await fetch('http://localhost:5000/empleados')
+      const response = await fetch('https://vue-flask-crud.herokuapp.com/empleados')
       const data = await response.json()
       this.empleados = data
     }

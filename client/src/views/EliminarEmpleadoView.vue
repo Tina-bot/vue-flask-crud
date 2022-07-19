@@ -19,7 +19,7 @@ export default
   },
   methods: {
     async eliminarEmpleado () {
-      const result = await fetch(`http://localhost:5000/empleados/${this.$route.params.id}`, {
+      const result = await fetch(`https://vue-flask-crud.herokuapp.com/empleados/${this.$route.params.id}`, {
         method: 'DELETE'
       })
       console.log(result)

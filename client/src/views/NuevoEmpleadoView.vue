@@ -13,7 +13,7 @@ export default {
   },
   methods: {
     async createEmpleado (nuevoEmpleado) {
-      const result = await fetch('http://localhost:5000/empleados', {
+      const result = await fetch('https://vue-flask-crud.herokuapp.com/empleados', {
         method: 'POST',
         headers: {
           Accept: 'application/json',
