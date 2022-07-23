@@ -15,7 +15,6 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://tina76:12345678@db4free
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 
-
 CORS(app, resources={r"/*":{'origins':"*"}})
 
 
