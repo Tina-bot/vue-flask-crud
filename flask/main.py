@@ -11,7 +11,7 @@ db = SQLAlchemy(app)
 db.create_all()
 
 # creo la conexion a la base de datos con la configuracion de la base de datos
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://tina76:12345678@db4free.net:3306/vueflaskcrud'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://tina76:12345678@db4free.net/vueflaskcrud'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 
